@@ -14,7 +14,7 @@ html,body{
 }
 .header{
 	min-height: 900px;
-background: url(images/headerbg.jpg);
+background: url(../images/headerbg.jpg);
 background-size: cover;
 }
 .headerslogan h1{
@@ -132,7 +132,7 @@ section span{
 }
 .numbersblocks{
 	min-height: 444px;
-	background-image: url(images/hand.jpg);
+	background-image: url(../images/hand.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -211,7 +211,7 @@ button{
 }
 .footer{
 	min-height: 658px;
-	background-image: url(images/footerbg.png);
+	background-image: url(../images/footerbg.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
